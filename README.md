@@ -1,3 +1,5 @@
+Esse é um repositório criado para realizar o treinamento disponibilizado no youtube da Códigos Júnior para a tecnologia Next, utilizada na empresa para o desenvolvimento de sites. Nele é desenvolvido uma aplicação simples para explicar a mudança de configuração no tailwind versão 4, no qual não existe mais o tailwind.config e sim o global.css.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
